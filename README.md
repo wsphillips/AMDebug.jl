@@ -1,2 +1,2 @@
 # AMDebug.jl
-Julia interface to the AMDdbgapi
+Julia interface to the ROCdbgapi
