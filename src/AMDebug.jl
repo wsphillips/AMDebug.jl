@@ -1,5 +1,7 @@
 module AMDebug
 
-greet() = print("Hello World!")
+include("ROCdbg/ROCdbg.jl")
+
+using .ROCdbg
 
 end # module

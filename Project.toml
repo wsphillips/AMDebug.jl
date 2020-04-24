@@ -2,3 +2,6 @@ name = "AMDebug"
 uuid = "7e8d3566-b211-4a5c-b04c-dc2a7285404c"
 authors = ["Wiktor Phillips <wsphillips@gmail.com>"]
 version = "0.1.0"
+
+[deps]
+CEnum = "fa961155-64e5-5f13-b03f-caf6b980ea82"
